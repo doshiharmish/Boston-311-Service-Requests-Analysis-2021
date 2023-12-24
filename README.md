@@ -1,6 +1,8 @@
 # Boston 311 Service Requests Analysis (2021)
 ## Introduction
-This project delves into an extensive analysis of 311 service requests from Boston residents in 2021. It aims to uncover patterns, trends, and potential areas for improvement in city services.
+The 3-1-1 service is a pivotal system adopted by numerous communities across the United States of America and Canada, serving as a dedicated channel for non-emergency municipal assistance. It offers residents access to essential services while diverting general inquiries and non-urgent issues away from the emergency hotline, 9-1-1.<br><br>
+This comprehensive report delves into the extensive statistics of 3-1-1 service requests made by Boston residents in 2021. The primary focus lies in analyzing prevalent complaint categories, geographical distribution, and the government's handling of these requests.<br><br>
+Each entry in the dataset corresponds to a service request initiated by a resident or staff member via various modes of communication. With 29 distinct parameters, including creation date, status, subject, department, location, and source, the dataset encapsulates multifaceted details for each request. An observation reveals a centralized pool where requests congregate before being directed to department-specific queues, predicated on request types and their respective locations.
 
 ## Objective
 The main objectives pursued in this analysis:
